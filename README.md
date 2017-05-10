@@ -12,7 +12,7 @@ In this game you will find out how many shots you can take! Try it out.
 
 ### Usage
 
-After you've downloaded the file. Run it from your command line using:
+After you've downloaded the file. Run it from the command line using:
 
 ```bash
 
